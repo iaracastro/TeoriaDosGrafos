@@ -3,7 +3,7 @@ Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso po
 
 # Codigos
 ### Djikstra.py
-- Retorna o caminho mais curto entre dois vértices de um grafo com pesos positivos.. <br/>
+- Retorna o caminho mais curto entre dois vértices de um grafo com pesos positivos. <br/>
 input: w(peso), a(vértice inicial), L (rótulo de vértice), z (vértice final)
 
 # Listas

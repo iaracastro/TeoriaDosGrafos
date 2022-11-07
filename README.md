@@ -15,12 +15,10 @@ input: w(peso), a(vértice inicial), L (rótulo de vértice), z (vértice final)
 Materiais diversos como pdfs, livros, códigos e imagens.
 
 # Resumos
-- Definição e Exemplos de Grafo
-- Problemas de Grafos
+- Definição, Exemplos de Grafo e Problemas de Grafos
 - Conceitos de Vizinhança, Grafo-Dirigido, Grafo Subjacente, Multi-Grafo.
 - Ponto isolado, Grafo Trivial e Teoremas de Grafos
-- Grafo Completo
-- Grafo Bipartido e Grafo com Peso
+- Grafo Completo, Grafo Bipartido e Grafo com Peso
 - Caminhos e Grafo Conexo
 - Subgrafo, Subconjuntos de um Grafo e Componentes de um Grafo
 - Ciclo Euleriano

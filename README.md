@@ -33,8 +33,7 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Árvores (Definição, Altura, Nível, Propriedades e Afirmações)
 - Árvores Geradoras
 - Algoritmo Bfs (busca de busca em largura por árvore geradora)
-- Árvores Geradoras Minimais
-- Algoritmo Prim (retorna conjunto de arestas da árvore geradora minimal)
+- Algoritmo Prim (retorna conjunto de arestas da árvore geradora minimal) e Árvores Geradoras Minimais
 - Redes e Conceito de Fluxo
 - Algoritmo de Fluxo Maximal
 - Algoritmo maxflow (retorna fluxo maximal)

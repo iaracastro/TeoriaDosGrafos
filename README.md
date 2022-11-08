@@ -32,7 +32,7 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Número Cromático (+ Teorema de Vizing, etc.)
 - Árvores (Definição, Altura, Nível, Propriedades e Afirmações)
 - Árvores Geradoras
-- Algoritmo Bfs (busca em largura para árvore geradora)
+- Algoritmo Bfs (busca de busca em largura por árvore geradora)
 - Árvores Geradoras Minimais
 - Algoritmo Prim (retorna conjunto de arestas da árvore geradora minimal)
 - Redes e Conceito de Fluxo

@@ -22,11 +22,10 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Ciclo Hamiltoniano
 - Algoritmo Djikstra
 - Matriz de Adjacências e Matriz de Incidências
-- Isomorfismo de Grafos
+- Isomorfismo e Homeomorfismo de Grafos
 - Grafos Planares e Propriedade de Euler
 - Fórmula de Euler
 - Arestas em Série e Redução em Série
-- Homeomorfismo de Grafos
 - Teorema de Kuratowski e Teorema de Vizing
 - Coloração de Grafos 
 - Coloração de Vértices e Arestas

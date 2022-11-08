@@ -25,8 +25,9 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Isomorfismo e Homeomorfismo de Grafos (+ Teorema de Kuratowski)
 - Grafos Planares e Fórmula/Propriedade de Euler
 - Arestas em Série e Redução em Série
-- Coloração de Grafos, Vértices e Arestas
-- K-Colorível e Número Cromático (+ Teorema de Vizing)
+- Coloração: Grafos, Vértices e Arestas
+- K-Colorível (+ Teorema das 4 cores, Teorema grafo 6-colorivel, 5-colorivel, 4-colorivel, etc.)
+- Número Cromático (+ Teorema de Vizing, etc.)
 - Árvores
 - Árvores Geradoras
 - Algoritmo Bfs (busca em largura para árvore geradora)

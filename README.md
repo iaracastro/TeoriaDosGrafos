@@ -22,13 +22,11 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Ciclo Hamiltoniano
 - Algoritmo Djikstra
 - Matriz de Adjacências e Matriz de Incidências
-- Isomorfismo e Homeomorfismo de Grafos
+- Isomorfismo e Homeomorfismo de Grafos (+ Teorema de Kuratowski)
 - Grafos Planares e Fórmula/Propriedade de Euler
 - Arestas em Série e Redução em Série
-- Teorema de Kuratowski e Teorema de Vizing
-- Coloração de Grafos 
-- Coloração de Vértices e Arestas
-- K-Colorível e Número Cromático
+- Coloração de Grafos, Vértices e Arestas
+- K-Colorível e Número Cromático (+ Teorema de Vizing)
 - Árvores
 - Árvores Geradoras
 - Algoritmo Bfs (busca em largura para árvore geradora)

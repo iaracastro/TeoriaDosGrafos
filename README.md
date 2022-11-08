@@ -32,4 +32,4 @@ Materiais diversos como pdfs, livros, slides e imagens.
 - [Redes e Fluxo](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Redes%20e%20Fluxo.pdf)
 - [Fluxo Maximal](https://github.com/iaracas]tro/TeoriaDosGrafos/blob/main/Resumos/Fluxo%20Maximal.pdf)
 - [Algoritmo Maxflow](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Maxflow.pdf) (retorna fluxo maximal)
-- Corte e Teorema do Corte Mínimo/Fluxo Maximal
+- [Corte](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Corte%20e%20Teoremas.pdf) (definição, capacidade de corte, teorema da capacidade) e [Teorema do Corte Mínimo/Fluxo Maximal](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Corte%20e%20Teoremas.pdf) (e teorema do algoritmo de fluxo maximal)

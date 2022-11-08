@@ -23,8 +23,7 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Algoritmo Djikstra
 - Matriz de Adjacências e Matriz de Incidências
 - Isomorfismo e Homeomorfismo de Grafos
-- Grafos Planares e Propriedade de Euler
-- Fórmula de Euler
+- Grafos Planares e Fórmula/Propriedade de Euler
 - Arestas em Série e Redução em Série
 - Teorema de Kuratowski e Teorema de Vizing
 - Coloração de Grafos 

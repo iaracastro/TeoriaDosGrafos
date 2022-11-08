@@ -9,7 +9,7 @@ Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso po
 - Listas da matéria de matemática discreta ministrada por Maria Soledad. 
 
 # Materiais
-Materiais diversos como pdfs, livros, códigos e imagens.
+Materiais diversos como pdfs, livros, slides e imagens.
 
 # Resumos
 - [Introdução](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Introdu%C3%A7%C3%A3o.pdf): Definição, Exemplos e Problemas de Grafos
@@ -32,3 +32,4 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Redes e Conceito de Fluxo
 - Algoritmo de Fluxo Maximal
 - Algoritmo maxflow (retorna fluxo maximal)
+- Corte e Teorema do Corte Mínimo/Fluxo Maximal

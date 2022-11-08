@@ -29,7 +29,7 @@ Materiais diversos como pdfs, livros, slides e imagens.
 - [Árvores Geradoras](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/%C3%81rvores%20Geradoras.pdf)
 - [Algoritmo Bfs](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Bfs.pdf) (busca de busca em largura por árvore geradora)
 - [Algoritmo Prim](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf) (retorna conjunto de arestas da árvore geradora minimal) e [Árvores Geradoras Minimais](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf)
-- Redes e Conceito de Fluxo
-- Algoritmo de Fluxo Maximal
-- Algoritmo maxflow (retorna fluxo maximal)
+- Redes e Fluxo
+- Fluxo Maximal
+- Algoritmo Maxflow (retorna fluxo maximal)
 - Corte e Teorema do Corte Mínimo/Fluxo Maximal

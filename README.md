@@ -2,9 +2,11 @@
 Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso por acaso, espero que te ajude :)
 
 # Codigos
-### Djikstra.py
+### Djikstra.py (em breve)
 - Retorna o caminho mais curto entre dois vértices de um grafo com pesos positivos. <br/>
-input: w(peso), a(vértice inicial), L (rótulo de vértice), z (vértice final)
+
+### Graph.py (em breve)
+- Classe de grafo, realiza operações de inserir e remover arestas em um grafo. <br/>
 
 # Listas
 
@@ -25,10 +27,10 @@ Materiais diversos como pdfs, livros, códigos e imagens.
 - Isomorfismo e Homeomorfismo de Grafos (+ Teorema de Kuratowski)
 - Grafos Planares e Fórmula/Propriedade de Euler
 - Arestas em Série e Redução em Série
-- Coloração: Grafos, Vértices e Arestas
+- Coloração (Grafos, Vértices e Arestas)
 - K-Colorível (+ Teorema das 4 cores, Teorema grafo 6-colorivel, 5-colorivel, 4-colorivel, etc.)
 - Número Cromático (+ Teorema de Vizing, etc.)
-- Árvores
+- Árvores (Definição, Altura, Nível, Propriedades e Afirmações)
 - Árvores Geradoras
 - Algoritmo Bfs (busca em largura para árvore geradora)
 - Árvores Geradoras Minimais

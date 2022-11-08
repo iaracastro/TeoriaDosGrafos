@@ -8,9 +8,9 @@ Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso po
 ### Graph.py (em breve)
 - Classe de grafo, realiza operações de inserir e remover arestas em um grafo. <br/>
 
-# Listas
+# Listas (apenas enunciados por enquanto)
 
-- Listas da matéria de matemática discreta ministrada por Maria Soledad.
+- Listas da matéria de matemática discreta ministrada por Maria Soledad. 
 
 # Materiais
 

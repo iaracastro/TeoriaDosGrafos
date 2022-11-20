@@ -30,7 +30,7 @@ Materiais diversos como pdfs, livros, slides e imagens.
 - [Algoritmo Bfs](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Bfs.pdf) (busca em largura por árvore geradora)
 - [Algoritmo Prim](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf) (retorna conjunto de arestas da árvore geradora minimal) e [Árvores Geradoras Minimais](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf)
 - [Redes e Fluxo](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Redes%20e%20Fluxo.pdf)
-- [Fluxo Maximal](https://github.com/iaracas]tro/TeoriaDosGrafos/blob/main/Resumos/Fluxo%20Maximal.pdf)
+- [Fluxo Maximal](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Fluxo%20Maximal.pdf)
 - [Algoritmo Maxflow](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Maxflow.pdf) (retorna fluxo maximal)
 - [Corte](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Corte%20e%20Teoremas.pdf): definição, capacidade de corte, teorema da capacidade e [Teorema do Corte Mínimo/Fluxo Maximal](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Corte%20e%20Teoremas.pdf) e Teorema do Maxflow
 - [Matching](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Matching.pdf)

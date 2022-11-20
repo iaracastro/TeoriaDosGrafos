@@ -5,9 +5,9 @@ Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso po
 (nada por enquanto) 
 
 # Listas 
-Listas da matéria de matemática discreta ministrada por Maria Soledad. 
-Lista 8: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%208/Lista%208%20-%20Matem%C3%A1tica%20Discreta.pdf)) ([Respostas](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%208/Lista%208%20-%20Respostas.pdf))
-Lista 9: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Matem%C3%A1tica%20Discreta.pdf)) ([Respostas](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Respostas.pdf))
+Listas da matéria de matemática discreta ministrada por Maria Soledad. <br>
+Lista 8: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%208/Lista%208%20-%20Matem%C3%A1tica%20Discreta.pdf)) ([Respostas](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%208/Lista%208%20-%20Respostas.pdf)) <br>
+Lista 9: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Matem%C3%A1tica%20Discreta.pdf)) ([Respostas](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Respostas.pdf)) <br>
 
 # Materiais
 Materiais diversos como pdfs, livros, slides e imagens.

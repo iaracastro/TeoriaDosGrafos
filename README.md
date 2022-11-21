@@ -1,8 +1,8 @@
 # TeoriaDosGrafos
 Repositório pessoal pra material de Teoria dos Grafos. Se alguém achou isso por acaso, espero que te ajude :)
 
-# Codigos
-(nada por enquanto) 
+# Códigos
+(nada por enquanto)
 
 # Listas 
 Listas da matéria de matemática discreta ministrada por Maria Soledad. <br>
@@ -11,6 +11,7 @@ Lista 9: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Li
 
 # Materiais
 Materiais diversos como pdfs, livros, slides e imagens.
+As listas e materiais são baseados no [livro](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Materiais/Richard%20Johnsonbaugh%20-%20Discrete%20Mathematics-Pearson%20(2007)%20(1).pdf) de Richard Johnsonbaugh.
 
 # Resumos
 - [Introdução](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Introdu%C3%A7%C3%A3o.pdf): Definição, Exemplos e Problemas de Grafos

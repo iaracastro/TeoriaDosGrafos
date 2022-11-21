@@ -29,7 +29,7 @@ As listas e materiais são baseados no [livro](https://github.com/iaracastro/Teo
 - [Número Cromático](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/N%C3%BAmero%20Crom%C3%A1tico.pdf) (+ Teorema de Vizing, etc.)
 - [Árvores](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/%C3%81rvores.pdf) (Definição, Altura, Nível, Propriedades, Afirmações e Aplicações)
 - [Árvores Geradoras](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/%C3%81rvores%20Geradoras.pdf)
-- [Algoritmo Bfs](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Bfs.pdf) (busca em largura por árvore geradora)
+- [Algoritmo Bfs](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Bfs.pdf) (Breadth-first search: busca em largura por árvore geradora)
 - [Algoritmo Prim](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf) (retorna conjunto de arestas da árvore geradora minimal) e [Árvores Geradoras Minimais](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Algoritmo%20Prim%20e%20%C3%81rvore%20Geradora%20Minimal.pdf)
 - [Redes e Fluxo](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Redes%20e%20Fluxo.pdf)
 - [Fluxo Maximal](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Resumos/Fluxo%20Maximal.pdf)

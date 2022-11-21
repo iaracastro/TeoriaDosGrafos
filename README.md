@@ -10,7 +10,7 @@ Lista 8: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Li
 Lista 9: ([Enunciado](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Matem%C3%A1tica%20Discreta.pdf)) ([Respostas](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Listas/Lista%209/Lista%209%20-%20Respostas.pdf)) <br>
 
 # Materiais
-Materiais diversos como pdfs, livros, slides e imagens.
+Materiais diversos como pdfs, livros, slides e imagens. <br>
 As listas e materiais são baseados no [livro](https://github.com/iaracastro/TeoriaDosGrafos/blob/main/Materiais/Richard%20Johnsonbaugh%20-%20Discrete%20Mathematics-Pearson%20(2007)%20(1).pdf) de Richard Johnsonbaugh.
 
 # Resumos
